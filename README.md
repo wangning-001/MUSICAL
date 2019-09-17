@@ -2,5 +2,5 @@
 
 
 ### Example results  
-
-<img src="./results/paris_results/10_input.png" width="256">  <img src="./results/paris_results/10_ours.png" width="256"> 
+rc
+<img src="./results/paris_results/10_input.png" width="200">  <img s="./results/paris_results/10_ours.png" width="200"
