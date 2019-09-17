@@ -1,4 +1,5 @@
-## MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting
+MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting
+====
 
 
 ### Example results  
