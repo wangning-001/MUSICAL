@@ -23,11 +23,10 @@ Example inpainting results of our method on images of building (Paris StreetView
 ## Citation
 If you use this code for your research, please cite our paper.  
   
-@inproceedings{wang2019musical,  
-    title     = {MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting},  
-    author    = {Wang, Ning and Li, Jingyuan and Zhang, Lefei and Du, Bo},  
-    booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on  
-               Artificial Intelligence, {IJCAI-19}},              
-    pages     = {3748--3754},  
-    year      = {2019}  
-}  
+>>@inproceedings{wang2019musical,  
+>>>title     = {MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting},  
+>>>author    = {Wang, Ning and Li, Jingyuan and Zhang, Lefei and Du, Bo},  
+>>>booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI-19}},              
+>>>pages     = {3748--3754},  
+>>>year      = {2019}  
+>>}  
