@@ -11,12 +11,11 @@ MUSICAL
 Example inpainting results of our method on images of building (Paris StreetView), face (CelebA), and natural scenes (Places2) with center masks (masks shown in gray). For each group, the masked input image is shown left, followed by sampled results from our model withour any post-processing.
 
 ## Getting started
-### * Training
-python train.py --name paris_parallel --CA_type parallel
+### Training
+* python train.py --name paris_parallel --CA_type parallel
 
-### * Testing
-python test.py --results_dir ./results_paris/ --name paris_parallel --CA_type parallel --checkpoints_dir ./log/paris_parallel --which_epoch 30 
+### Testing
+* python test.py --results_dir ./results_paris/ --name paris_parallel --CA_type parallel --checkpoints_dir ./log/paris_parallel --which_epoch 30 
 
-### * GUI
-
-python -m visdom.server
+### GUI
+* python -m visdom.server
